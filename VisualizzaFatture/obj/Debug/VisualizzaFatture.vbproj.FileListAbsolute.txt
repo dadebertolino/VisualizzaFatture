@@ -24,3 +24,9 @@ C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\bin\D
 C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.exe
 C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.xml
 C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.pdb
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\bin\Debug\VisualizzaFatture.exe
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\bin\Debug\VisualizzaFatture.pdb
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\bin\Debug\VisualizzaFatture.xml
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.frmVisualizzatore.resources
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.Resources.resources
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.vbproj.GenerateResource.Cache

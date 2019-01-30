@@ -73,6 +73,14 @@ Public Class frmVisualizzatore
     Private Sub frmVisualizzatore_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
         My.Settings.FoglioDiStile = Me.cmbFogliDiStile.SelectedItem
     End Sub
+
+    Private Sub btnAnteprima_Click(sender As Object, e As EventArgs) Handles btnAnteprima.Click
+        Me.WebBrowser1.ShowPrintPreviewDialog()
+    End Sub
+
+    Private Sub btnStampa_Click(sender As Object, e As EventArgs) Handles btnStampa.Click
+        Me.WebBrowser1.ShowPrintDialog()
+    End Sub
 End Class
 
 ' « &laquo;

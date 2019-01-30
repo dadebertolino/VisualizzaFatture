@@ -26,6 +26,8 @@ Partial Class frmVisualizzatore
         Me.WebBrowser1 = New System.Windows.Forms.WebBrowser()
         Me.cmbFogliDiStile = New System.Windows.Forms.ComboBox()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.btnAnteprima = New System.Windows.Forms.Button()
+        Me.btnStampa = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btnVisualizza
@@ -66,11 +68,31 @@ Partial Class frmVisualizzatore
         Me.Label1.TabIndex = 3
         Me.Label1.Text = "Foglio di stile"
         '
+        'btnAnteprima
+        '
+        Me.btnAnteprima.Location = New System.Drawing.Point(93, 12)
+        Me.btnAnteprima.Name = "btnAnteprima"
+        Me.btnAnteprima.Size = New System.Drawing.Size(75, 23)
+        Me.btnAnteprima.TabIndex = 4
+        Me.btnAnteprima.Text = "Anteprima"
+        Me.btnAnteprima.UseVisualStyleBackColor = True
+        '
+        'btnStampa
+        '
+        Me.btnStampa.Location = New System.Drawing.Point(174, 12)
+        Me.btnStampa.Name = "btnStampa"
+        Me.btnStampa.Size = New System.Drawing.Size(75, 23)
+        Me.btnStampa.TabIndex = 5
+        Me.btnStampa.Text = "Stampa"
+        Me.btnStampa.UseVisualStyleBackColor = True
+        '
         'frmVisualizzatore
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(629, 507)
+        Me.Controls.Add(Me.btnStampa)
+        Me.Controls.Add(Me.btnAnteprima)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.cmbFogliDiStile)
         Me.Controls.Add(Me.WebBrowser1)
@@ -86,4 +108,6 @@ Partial Class frmVisualizzatore
     Friend WithEvents WebBrowser1 As WebBrowser
     Friend WithEvents cmbFogliDiStile As ComboBox
     Friend WithEvents Label1 As Label
+    Friend WithEvents btnAnteprima As Button
+    Friend WithEvents btnStampa As Button
 End Class
