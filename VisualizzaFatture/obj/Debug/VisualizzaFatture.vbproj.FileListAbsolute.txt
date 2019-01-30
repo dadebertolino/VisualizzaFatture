@@ -1,0 +1,26 @@
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.frmVisualizzatore.resources
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\VisualizzaFatture.vbproj.GenerateResource.Cache
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\VisualizzaFatture.vbprojResolveAssemblyReference.cache
+C:\Users\davide.bertolino\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\bin\Debug\VisualizzaFatture.exe.config
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\bin\Debug\VisualizzaFatture.exe
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\bin\Debug\VisualizzaFatture.pdb
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\bin\Debug\VisualizzaFatture.xml
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\obj\Debug\VisualizzaFatture.vbprojResolveAssemblyReference.cache
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\obj\Debug\VisualizzaFatture.frmVisualizzatore.resources
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\obj\Debug\VisualizzaFatture.Resources.resources
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\obj\Debug\VisualizzaFatture.vbproj.GenerateResource.Cache
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\obj\Debug\VisualizzaFatture.exe
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\obj\Debug\VisualizzaFatture.xml
+C:\Users\davide.bertolino\Documents\Visual Studio 2015\Projects\VisualizzaFatture\VisualizzaFatture\obj\Debug\VisualizzaFatture.pdb
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\bin\Debug\VisualizzaFatture.exe.config
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.exe
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.xml
+C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.pdb
