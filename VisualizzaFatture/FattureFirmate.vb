@@ -31,7 +31,7 @@ Module FattureFirmate
             signedFile.SignedContent.Write(memoryStream)
             'fattura.ReadXml(memoryStream)
         End Using
-        Using fs As New IO.FileStream(OutputFileName, FileMode.Create)
+        Using fs As New IO.FileStream(IO.Path.Combine(My.Application.Percorso, OutputFileName), FileMode.Create)
             signedFile.SignedContent.Write(fs)
             fs.Flush()
             fs.Close()

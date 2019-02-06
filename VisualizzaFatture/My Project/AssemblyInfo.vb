@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Rivedere i valori degli attributi degli assembly
 
-<Assembly: AssemblyTitle("WindowsApplication10")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WindowsApplication10")>
-<Assembly: AssemblyCopyright("Copyright ©  2019")>
+<Assembly: AssemblyTitle("VisualizzaFatture")>
+<Assembly: AssemblyDescription("Programma per la visualizzazione delle fatture elettroniche")>
+<Assembly: AssemblyCompany("Davide Bertolino")>
+<Assembly: AssemblyProduct("VisualizzaFatture")>
+<Assembly: AssemblyCopyright("Copyright © 2019")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>

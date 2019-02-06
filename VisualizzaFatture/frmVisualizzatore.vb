@@ -15,6 +15,15 @@ Public Class frmVisualizzatore
 
     Public Sub VisualizzaFatturaElettronica(NomeFile As String, NomeFoglioStile As String)
         Try
+            Dim fi As New IO.FileInfo(NomeFile)
+            Dim NomeFattura As String = fi.Name
+            If NomeFattura.ToLower.EndsWith(".p7m") Then
+                NomeFattura = NomeFattura.Substring(0, NomeFattura.Length - 4)
+                If FattureFirmate.ReadXmlSigned(NomeFile, NomeFattura) = False Then
+                    Exit Sub
+                End If
+                NomeFile = IO.Path.Combine(My.Application.Percorso, NomeFattura)
+            End If
             Dim myXPathDocument As XPathDocument = New XPathDocument(NomeFile)
             Dim myXslTransform As XslCompiledTransform = New XslCompiledTransform()
             Dim NomeFileTMP As String = IO.Path.Combine(My.Application.Percorso, "tmp.html")
@@ -62,7 +71,7 @@ Public Class frmVisualizzatore
     End Sub
     Private Sub btnVisualizza_Click(sender As Object, e As EventArgs) Handles btnVisualizza.Click
         Dim ofd As New OpenFileDialog
-        ofd.Filter = "xml file|*.xml"
+        ofd.Filter = "xml file|*.xml|p7m file|*.p7m"
         ofd.Title = "Selezionare la fattura elettronica da visualizzare"
         ofd.InitialDirectory = IO.Path.Combine(My.Computer.FileSystem.SpecialDirectories.Desktop, "Fatture Elettroniche")
         If ofd.ShowDialog = DialogResult.OK Then

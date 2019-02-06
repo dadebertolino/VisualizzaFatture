@@ -31,4 +31,3 @@ C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\D
 C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.Resources.resources
 C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.vbproj.GenerateResource.Cache
 C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\davide.bertolino\Documents\VisualizzaFattureSrc\VisualizzaFatture\obj\Debug\VisualizzaFatture.vbprojResolveAssemblyReference.cache
